@@ -1,8 +1,8 @@
-A passionate student from New Zealand
+A passionate coder from New Zealand
 
 carl153
 
-    🔭 I’m currently working on: my Bachelor Degree in IT (Software Engineering)
+    🔭 I have finished my Bachelor Degree in Applied IT (BAppIT, Software Engineering)
 
     🌱 I’m currently learning: C#, SQL, Python, Java, JavaScript, HTML
 
